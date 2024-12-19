@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+graphviz
+matplotlib
+minisom
+mlxtend
+openpyxl
+streamlit-lottie
